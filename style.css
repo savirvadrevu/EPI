@@ -1,0 +1,19 @@
+.body_backgorund {
+    background-image:image(Untitleddidididi) ;
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 20px;
+  }
+  #Can
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
